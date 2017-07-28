@@ -6,6 +6,12 @@ Icahn School of Medicine at Mount Sinai
 
 New York, New York, USA
 
+## About
+This repository was originally for my entry in the DREAM 2016 Digital Mammography challenge. In the challenge, I have developed a classifier based on residual net + probabilistic heatmap + gradient boosting trees for breast cancer diagnosis. 
+
+For my entry in the challenge, see: https://www.synapse.org/LiShenDMChallenge. I ended up ranking 12 in sub-challenge 1 and 10 in sub-challenge 2 out of more than 100 teams.
+
+
 ## Overview
 Under the current folder are several Python modules that are used by both training and inference. The training and inference code are under specific sub-folders as described below.
 
