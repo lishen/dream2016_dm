@@ -1,0 +1,11 @@
+metadata
+modelState
+output
+trainingData
+inferenceData
+referenceData
+preprocessedData
+nohup.out
+*.sublime-*
+.ipynb_checkpoints
+*.pyc
